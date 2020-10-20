@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    padding: 40px 20px;
+    background-color: rgb(34, 124, 34);
+    color: white;
+    text-shadow: 1px 1px black;
+}
+p{
+    font-size: 30px;
+    text-align: left;
+}
+.container{
+    background-color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 40px 40px;
+}
+#instructions{
+    text-align: center;
+}
+h2{
+    padding: 20px 20px;
+}
+span{
+    color: green;
+}
